@@ -1,4 +1,4 @@
-# Calculator-on-linux
+# Calculator-on-bash-linux
 Calculator on bash linux with graphique interface
 using Whiptail linux command
 
